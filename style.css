@@ -29,7 +29,7 @@ mask {
   
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(6, 33vh);
+  grid-template-rows: repeat(6, auto);
   gap: 10px;
   padding: 10px;
   box-sizing: border-box;
